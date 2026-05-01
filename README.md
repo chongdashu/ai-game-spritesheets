@@ -12,6 +12,8 @@ Prompt templates and reference images for generating consistent game character s
 
 📝 **Builds on this article:** [Cass Attack Spritesheet Pipeline](https://x.com/chongdashu/status/2047271308166078951) — the original write-up of this normalization pipeline that the video extends.
 
+🧩 **Excalidraw Cheatsheet:** [AI Game Spritesheets Pipeline](https://link.excalidraw.com/readonly/fhSNOsMGlIPbaG1npNs2)
+
 🐦 **Follow [@chongdashu](https://x.com/chongdashu) on X** for daily AI gamedev tips, prompts, and experiments.
 
 This repo contains everything you need to follow along:
